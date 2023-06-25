@@ -1,0 +1,54 @@
+body{
+    background-color: darkcyan;
+}
+.main{
+    margin-top: 60px;
+}
+.center{
+    background-color: aquamarine;
+    width: 320px;
+    height: 350px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
+}
+form{
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.btn{
+    color: red;
+    background-color: lightgreen;
+    border: 1px solid white;
+    margin-top: 15px;
+    padding: 10px 30px;
+    
+}
+.btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+input{
+    width: 170px;
+    height: 23px;
+}
+.output{
+    background-color: red;
+    width: 80%;
+    margin: 0 auto;
+    height: 40%;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+h1{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 32px;
+}
+
