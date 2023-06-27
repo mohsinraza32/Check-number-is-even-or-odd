@@ -11,6 +11,10 @@ let checkNum = () => {
 
         document.querySelector("#result").innerHTML = `The number ${inputNum} is an odd number`;
 
+    }if(inputNum == ""){
+
+        document.querySelector("#result").innerHTML = "";
+        
     }
 
 }
